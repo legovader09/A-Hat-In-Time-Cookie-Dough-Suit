@@ -1,0 +1,10 @@
+{
+    "name": "Hat_Kid_Cookie_Dough_Suit",
+    "version_number": "1.0.1",
+    "author": "Doomnik",
+    "website_url": "https://github.com/legovader09",
+    "description": "Hat Kid Cookie Dough Suit",
+    "dependencies": [
+        "x753-More_Suits-1.4.1"
+    ]
+}
