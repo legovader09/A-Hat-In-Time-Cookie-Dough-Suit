@@ -2,7 +2,7 @@
     "name": "Hat_Kid_Cookie_Dough_Suit",
     "version_number": "1.0.1",
     "author": "Doomnik",
-    "website_url": "https://github.com/legovader09",
+    "website_url": "https://github.com/legovader09/A-Hat-In-Time-Cookie-Dough-Suit",
     "description": "Adds A Hat In Time's Cookie Dough colour palette as a suit",
     "dependencies": [
         "x753-More_Suits-1.4.1"
